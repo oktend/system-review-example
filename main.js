@@ -1,5 +1,5 @@
 const {foo} = require('./foo')
-const {bar} = require('./doubtful/bar')
+const {bar} = require('./bar')
 
 function main() {
     console.info('main');
