@@ -1,5 +1,7 @@
 # system-review-example
 The repository demonstrates how to review system.
+The article can be found here:
+https://medium.com/@aleksey.rezvov/code-review-of-the-system-with-git-ede319062fe8
 ## Instructions
 1. Choose repository's state you want to review, e.g. some commit in dev branch:
 https://github.com/oktend/system-review-example/commit/0514531a35edf19e7032eb49f45a98d019f83efe
